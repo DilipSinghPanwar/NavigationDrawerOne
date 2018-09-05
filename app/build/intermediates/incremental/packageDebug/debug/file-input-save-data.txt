@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Sep 05 10:31:32 IST 2018
+0.baseType=DIRECTORY
+0.base=D\:\\@DilipWorkspace\\Workspace\\NavigationDrawerOne\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
